@@ -22,10 +22,11 @@ session_start();
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+    <link rel="stylesheet" href="styles/main.css">
     <title>Information Technology</title>
 </head>
 <body>
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
         <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -84,11 +85,6 @@ session_start();
             </ul>
         </div>
 
-<!--	<div class="it-hit">
-		<a href="index.php"><img src="styles/images/it_logo.png" align="left" alt="itlogo"></a>
-		<a href="index.php"><strong><pre>Information Technology</pre></strong></a>
-		<a href="hithaldia.in"><strong><p>Haldia Institute of Technology</p></strong></a> 
-        </div>
--->
+
     </div>
 </nav>
