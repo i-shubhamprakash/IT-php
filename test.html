@@ -1,13 +1,5 @@
-<?php
-/* Created by Aditya Thakur 
-linkedin: linkedin.com/adityathakur532
-ALL RIGHTS RESERVED */
-require("db.php");
-session_start();
-?>
-
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,8 +18,9 @@ session_start();
 
     <title>Information Technology</title>
 </head>
+
 <body>
-<nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -35,7 +28,7 @@ session_start();
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Information Technology</a>
+                <a class="navbar-brand" href="#">Information Technology</a>
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
@@ -74,25 +67,12 @@ session_start();
                         </ul>
                     </li>
                 </ul>
-  
-                <li><a href="my_profile.php">My Profile</a></li>
-		
-</div>
-	<div class="it-hit">
-		<a href="index.php"><img src="styles/images/it_logo.png" align="left" alt="itlogo"></a>
-		<a href="index.php"><strong><pre>Information Technology</pre></strong></a>
-		<a href="hithaldia.in"><strong><p>Haldia Institute of Technology</p></strong></a>
-		<?php if ( $_SESSION['logged_in'] != 1 ) { ?>
-		<a href="signin-up.php"><button>Login/Signup</button></a>
-		<? }
-  		else { ?>
-		<a href="logout.php"><button>Logout</button></a>
-		<? } ?>
-	</div>
 
-  </div>
-</div>
-</nav>
-</body>
-</html>
 
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
