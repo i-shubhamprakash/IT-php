@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#container_arc {
+	border: #000000;
+	border-style: solid;
+	width: 96%;
+	margin-right: auto;
+	margin-left: auto;
+	overflow-y: scroll;
+	background-size: cover;
+	height: 400px;
+	color: #000;
+	text-align: justify;
+	font-size: 16px;
+	padding: 10px;
+}
+#arc_table {
+	background-size: cover;
+	border: #000000;
+	border-style: groove;
+	color: #000;
+	width: 96%;
+	margin: 0 auto;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+	table-layout: auto;
+	vertical-align: top;
+	margin-bottom: 15px;
+	border: 1px solid #CCCCCC;
+}
+table thead th {
+	color: #FFFFFF;
+	background-color: #04182F;
+	border: 1px solid #CCCCCC;
+	border-collapse: collapse;
+	text-align: center;
+	table-layout: auto;
+	vertical-align: middle;
+}
+table tbody td {
+	vertical-align: top;
+	border-collapse: collapse;
+	border-left: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+}
+table thead th, table tbody td {
+	padding: 5px;
+	border-collapse: collapse;
+}
+table, th, tr, td {
+	border: 1px solid black;
+	color: #000;
+}
