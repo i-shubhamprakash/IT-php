@@ -13,7 +13,7 @@
           </p>
         </div>
 
-        <hr class="clearfix w-100 d-md-none pb-3">
+      
 
         <div class="col-md-6 mb-md-0 mb-3">
           <h5 class="text-uppercase font-weight-bold">Contact Us</h5>

@@ -11,17 +11,10 @@
   </header>
 
   <div class="home-about">
-    <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt ex repellat assumenda fugit nisi distinctio,
-      amet soluta perferendis, laudantium ratione similique doloremque dolore tempore velit.
-      Architecto porro aliquid voluptatum labore? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas,
-      provident. Quod vero eius quo voluptates
-      sint, eligendi odio natus, provident possimus doloremque debitis dolores et temporibus laboriosam earum
-      odit quisquam?
-    </p>
   </div>
 
   <br>
-
+  <br>
   <div class="photo-slider">
     <div id="carousel-slider" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
@@ -63,68 +56,69 @@
       </a>
     </div>
   </div>
+  
+  <br> 
 
-  <div class="about-container col-lg-8">
+  <div class="col-lg-8">
+    <div class="about-container">
 
-    <h1> About </h1>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
-      </p>
+      <h1> About </h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis! Hic, non sit!
+        </p>
 
+    </div>
   </div>
 
-  <div class="notice-container col-lg-4">
-    <h1>Notice </h1>
-    <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta necessitatibus earum saepe temporibus tempore.
-    </p>
+  <div class="col-lg-4">
+    <div class="notice-container">
+      <h1>Notice </h1>
+      <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque.
+      </p>
 
-    <ul>
-      <li> 
-        <h3>Notice title </h2>
-        hohoh hahaha hohoh lolo lalal bobo
-      </li>
-      <li> 
-        <h3>Notice title </h1>
-        hohoh hahaha hohoh lolo lalal bobo
-      </li>  
-      <li> 
-        <h3>Notice title </h3>
-        hohoh hahaha hohoh lolo lalal bobo
-      </li>  
-      <li> 
-        <h3>Notice title </h3>
-        hohoh hahaha hohoh lolo lalal bobo
-      </li>  
-      <li> 
-        <h3>Notice title </h3>
-        hohoh hahaha hohoh lolo lalal bobo
-      </li>  
-      <li> 
-        <h3>Notice title </h3>
-        hohoh hahaha hohoh lolo lalal bobo
-      </li>
-    </ul>
+      <ul>
+        <li> 
+          <h3>Notice title </h2>
+          hohoh hahaha hohoh lolo lalal bobo
+        </li>
+        <li> 
+          <h3>Notice title </h1>
+          hohoh hahaha hohoh lolo lalal bobo
+        </li>  
+        <li> 
+          <h3>Notice title </h3>
+          hohoh hahaha hohoh lolo lalal bobo
+        </li>  
+        <li> 
+          <h3>Notice title </h3>
+          hohoh hahaha hohoh lolo lalal bobo
+        </li>  
+        <li> 
+          <h3>Notice title </h3>
+          hohoh hahaha hohoh lolo lalal bobo
+        </li>  
+      </ul>
 
+    </div>
   </div>
-
 </div>
 
 <br>
