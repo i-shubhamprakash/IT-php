@@ -74,15 +74,9 @@ session_start();
             </ul>
   
             <ul class="nav navbar-nav navbar-right">
-        
-                <?php if ( $_SESSION['logged_in'] != 1 ) { ?>
-                    <li><a href="signin-up.php"><span class="glyphicon glyphicon-user"></span> Login/SignUp</a></li>
-		        <? }
-  		        else { ?>
-                    <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
-                    <li><a href="my_profile.php">My Profile</a></li>
-                <? } ?>
-            </ul>
+
+                <!-- login code -->
+                
         </div>
 
 
