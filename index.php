@@ -6,7 +6,7 @@
 <!-- Home page main content -->
 <div class="container-fluid main-body">
   <div class="row">
-    <header class="header-section col-12 col-lg-12">
+    <header class="header-section col-12 col-sm-12 col-lg-12">
       <h1 class="header-text text-center heading"> <img src="styles/images/it_logo.png" align="center" alt="itlogo">Department
         of Information Technology</h1>
     </header>

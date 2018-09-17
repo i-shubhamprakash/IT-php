@@ -14,18 +14,18 @@
 	</div>
 
 	<div class="row">
-		<div class="col-12 col-sm-4 col-md-4 col-lg-4">
+		<div class="col-12 col-sm-6 col-md-6 col-lg-6">
 			<!--PHP code to fetch faculty information-->
 			<?php
 				$query= "SELECT * FROM `alumnus` ORDER BY `alumni_id`";
 				$result = $mysqli->query($query);
 				while($user = $result->fetch_assoc()){
-					echo '<div class="profileBox card" >
-							<img class="img-responsive" src="layout/images/'.$user["a_img"].'" width="130" height="130" />
+					echo '<div class="card" >
+							<img class="img-responsive pro-img" style="width:100%; border-radius: 10px;"src="layout/images/'.$user["a_img"].'" width="130" height="130" />
 							<br>
-							<span class="h2">'.$user["a_name"].'</span>
-							<br><br>
-							<span class="h3"><strong>Description: </strong><br>'.$user["a_desc"].'</span><br>
+							<span class="h1 text-primary text-center">'.$user["a_name"].'</span>
+							<br>
+							<span class="h4"><br>'.$user["a_desc"].'</span><br>
 						  </div>';
 				}	
 			?>

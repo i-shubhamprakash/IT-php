@@ -16,6 +16,14 @@
     border: 0px solid #000000;
 }
 
+.pro-img {
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    width:100%;
+}
+
+
 .heading {
     font-family: 'Acme', sans-serif;
     font-size: 5em;
@@ -33,23 +41,6 @@
 .footer {
     color:black;
 }
-
-.profile-box {
-    /* margin:5em 1em;
-    padding:2em;
-
-    -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
-    -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
-    box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
-
-    border-radius: 10px 10px 10px 10px;
-    -moz-border-radius: 10px 10px 10px 10px;
-    -webkit-border-radius: 10px 10px 10px 10px;
-    border: 0px solid #000000; */
-
-    width:80%;
-}
-
 
 @media only screen and (max-width: 400px) {
     .card {
