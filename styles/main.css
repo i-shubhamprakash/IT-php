@@ -1,12 +1,12 @@
 .main-body {
-    padding-top:7%;
+    margin:0;
+    padding:0;
+    font-family: 'Nunito', sans-serif;
 }
 
-.about-container,
-.notice-container {
-
-    margin:2em 0.8em;
-    padding:1.5em;
+.card {
+    margin:5em 1em;
+    padding:2em;
 
     -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
     -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
@@ -18,10 +18,22 @@
     border: 0px solid #000000;
 }
 
+.heading {
+    font-family: 'Acme', sans-serif;
+    font-size: 5em;
+    text-align: center;
+    padding:1em 0;
+    margin:0;
+}
+
+.sub-heading {
+    text-align: left;
+    margin:0;
+    padding:0.8em 0;
+}
 
 @media only screen and (max-width: 400px) {
-    .about-container,
-    .notice-container {
+    .card {
         margin:1em 0;
         padding:1em;
     

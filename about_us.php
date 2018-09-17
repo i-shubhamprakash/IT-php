@@ -1,6 +1,6 @@
 <?php
 /*
- © aditya thakur ©Piyush Vikas
+ ï¿½ aditya thakur ï¿½Piyush Vikas
   contact: https://www.linkedin.com/in/aditya532/
  ALL RIGHTS RESERVED
  */
@@ -10,7 +10,7 @@ $page_requirements = '
  	include("header.php");
 ?>
 	<div class="container-fluid">
-				<div id="container_arc">
+				<div id="container_arc" class="card">
 					<p>
 						Information technology (IT) is the use of computers to store, retrieve, transmit, and manipulate data, or information, often in the context of a business or other enterprise.IT is considered to be a subset of information and communications technology (ICT).<br><br>
 

@@ -1,6 +1,6 @@
 <?php
 /*
- © aditya thakur
+ ©aditya thakur
   contact: https://www.linkedin.com/in/aditya532/
  ALL RIGHTS RESERVED
  */
@@ -16,7 +16,7 @@
 }
 .login-box{
   position:relative;
-  margin: 10px auto;
+  margin: 10px auto
   width: 500px;
   height: 420px;
   background-color: lightgoldenrodyellow;
@@ -351,4 +351,3 @@ $("#login-box-link").click(function(){
 });
 //# sourceURL=pen.js
 </script>
-</body></html>

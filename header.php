@@ -22,6 +22,9 @@ session_start();
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+    <!-- google font  -->
+    <link href="https://fonts.googleapis.com/css?family=Acme|Nunito" rel="stylesheet">
+    
     <link rel="stylesheet" href="styles/main.css">
     <title>Information Technology</title>
 </head>
@@ -45,7 +48,7 @@ session_start();
                         <ul class="dropdown-menu"> 
                           <li><a href="faculty.php">Faculty</a></li>
                             <li><a href="students.php">Current Students</a></li>
-                            <li><a href="alumnis.php">Alumnis</a></li>
+                            <li><a href="alumnus.php">Alumnis</a></li>
                             <li><a href="staffs.php">Staffs</a></li>
                         </ul>
                     </li>
@@ -74,14 +77,16 @@ session_start();
             </ul>
   
             <ul class="nav navbar-nav navbar-right">
-        
-                <?php if ( $_SESSION['logged_in'] != 1 ) { ?>
+            <li><a href="signin-up.php"><span class="glyphicon glyphicon-user"></span> Login/SignUp</a></li>
+              <!-- 
+                   <?php if ( $_SESSION['logged_in'] != 1 ) { ?>
                     <li><a href="signin-up.php"><span class="glyphicon glyphicon-user"></span> Login/SignUp</a></li>
 		        <? }
   		        else { ?>
                     <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
                     <li><a href="my_profile.php">My Profile</a></li>
-                <? } ?>
+                <? } ?> 
+            -->
             </ul>
         </div>
 

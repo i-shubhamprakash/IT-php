@@ -1,6 +1,6 @@
 <?php
 /*
- © aditya thakur ©Piyush Vikas
+ ï¿½ aditya thakur ï¿½Piyush Vikas
   contact: https://www.linkedin.com/in/aditya532/
  ALL RIGHTS RESERVED
  */
@@ -9,6 +9,13 @@ $page_requirements = '
 	';
 include( "header.php" );
 ?>
+
+<div class="container-fluid">
+	<div class="card">
+		
+	</div>
+</div>
+
 
 <?php
 include( "footer.php" );

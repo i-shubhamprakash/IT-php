@@ -1,3 +1,4 @@
+<hr>
 <footer class="page-footer font-small pt-4">
     <div class="container-fluid text-center text-md-left">
       <div class="row">
