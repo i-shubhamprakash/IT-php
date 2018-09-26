@@ -1,0 +1,5 @@
+{
+    "editor.matchBrackets": false,
+    "bracketPairColorizer.highlightActiveScope": true,
+    "bracketPairColorizer.forceUniqueOpeningColor": true
+}
