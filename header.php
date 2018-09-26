@@ -60,7 +60,7 @@ session_start();
                         <ul class="dropdown-menu">
                           <li><a href="faculty.php">Faculty</a></li>
                             <li><a href="students.php">Current Students</a></li>
-                            <li><a href="alumnus.php">Alumns</a></li>
+                            <li><a href="alumnus.php">Alumnus</a></li>
                             <li><a href="staffs.php">Staffs</a></li>
                         </ul>
                     </li>
