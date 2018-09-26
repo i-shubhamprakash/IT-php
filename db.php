@@ -7,8 +7,8 @@
  */ 
  
 
-  DEFINE('DB_USERNAME', 'shubham');
-  DEFINE('DB_PASSWORD', 'mysql@2308');
+  DEFINE('DB_USERNAME', 'root');
+  DEFINE('DB_PASSWORD', '');
   DEFINE('DB_HOST', 'localhost');
   DEFINE('DB_DATABASE', 'it_db');
 
