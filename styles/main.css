@@ -1,51 +1,120 @@
 .main-body {
     font-family: 'Nunito', sans-serif;
+    margin-top: 50px;
 }
 
-.boxyfy {
-    margin:5em 1em;
-    padding:2em;
+.it-logo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
 
-    -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
-    -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
-    box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.62);
+.heading {
+    font-family: 'Acme', sans-serif;
+    font-size: 3em;
+    text-align: center;
+    padding: 1em 0;
+    margin: 0;
+}
 
-    border-radius: 10px 10px 10px 10px;
-    -moz-border-radius: 10px 10px 10px 10px;
-    -webkit-border-radius: 10px 10px 10px 10px;
-    border: 0px solid #000000;
+.sub-heading {
+    text-align: left;
+    margin: 0;
+    padding: 0.8em 0;
 }
 
 .pro-img {
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 10px 10px 10px 10px;
     -webkit-border-radius: 10px 10px 10px 10px;
-    width:100%;
+    width: 100%;
 }
 
 
-.heading {
-    font-family: 'Acme', sans-serif;
-    font-size: 5em;
-    text-align: center;
-    padding:1em 0;
-    margin:0;
+.about-container {
+    height:420px;
+    overflow-y: auto;
 }
 
-.sub-heading {
-    text-align: left;
-    margin:0;
-    padding:0.8em 0;
+.about-container p {
+    font-size: 1.1em;
 }
 
+
+.boxyfy {
+    margin: 5em 1em;
+    padding: 2em;
+
+    -webkit-box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.62);
+    -moz-box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.62);
+    box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.62);
+
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+
+    background-color: rgb(255, 255, 255);
+    border-bottom: 5px solid rgb(153, 33, 233);
+}
+
+/****************<notice>********************/
+.notice-container {
+    height:420px;
+    overflow-y: auto;
+}
+
+/******************</notice>*****************/
+
+
+
+/*******************************<footer>***********************************/
 .footer {
-    color:black;
-}
+    background-color: rgb(239, 225, 250);
+    padding-top:2em;
+    }
+    .contact-us {
+        width:90%;
+        display:block;
+        margin-left: auto;
+        margin-right:auto;
+    }
+
+    .member-contact-link {
+        text-decoration: none;
+    }
+
+    .copyright-line{
+        background-color: rgb(230, 203, 247);
+    }
+
+    /*************************<contact us>*****************************/
+    .shadow-textarea textarea.form-control::placeholder {
+        font-weight: 300;
+    }
+    .shadow-textarea textarea.form-control {
+        padding-left: 0.8rem;
+    }
+    /*****************************</contact us>***********************/
+/*********************************</footer>********************************/
+
+
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width: 400px) {
     .boxyfy {
-        margin:1em 0;
-        padding:1em;
-    
+        margin: 1em 0;
+        padding: 1em;
     }
-  }
+
+    .heading {
+        font-size: 2em;
+    }
+}

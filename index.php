@@ -6,10 +6,13 @@
 <!-- Home page main content -->
 <div class="container main-body">
   <div class="row">
-    <header class="header-section col-12 col-sm-12 col-lg-12">
-      <h1 class="header-text text-center heading"> <img src="styles/images/it_logo.png" align="center" alt="itlogo">Department
+    <div class="col-12 col-sm-2 col-md-2 col-lg-2">
+      <img src="styles/images/it_logo.png" align="center" class="it-logo" alt="I.T. logo">
+    </div>
+    <div class="col-12 col-sm-9 col-md-9 col-lg-9">
+    <h1 class="header-text text-center heading">Department
         of Information Technology</h1>
-    </header>
+    </div>
   </div>
 
   <div class="row">
@@ -57,97 +60,107 @@
   </div>
 
   <div class="row">
-    <div class="col-12 col-sm-6 col-lg-6" style="background-color:blue;">
-      <div class="about-container boxyfy">
-        <h2 class="sub-heading"> About </h2>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
-          necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
-          Hic,
-          non sit!
-        </p>
-
+    <div class="col-12 col-sm-7 col-lg-7">
+      <div class="boxyfy">
+        <h2 class="text-center"> ABOUT </h2>
+        <div class="about-container">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
+            necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
+            Hic,
+            non sit!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
+            necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
+            Hic,
+            non sit!
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
+            necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
+            Hic,
+            non sit!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
+            necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
+            Hic,
+            non sit!
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
+            necessitatibus earum saepe temporibus tempore. Deserunt labore, laudantium sed commodi sunt perspiciatis!
+            Hic,
+            non sit!
+          </p>
+        </div>
       </div>
     </div>
 
-  </div>
+    <div class="col-12 col-sm-5 col-lg-5">
+      <div class="boxyfy">
+        <div class="row row-eq-height">
+          <h2 class="text-center">NOTICE</h2>
+          <div class="notice notice-container">
+            <ul>
+              <li>
+                <div class="notice-content">
+                  <h3 class="notice-title">Notice Title</h3>
+                  <p class="notice-date h4">Notice Date</p>
+                  <p class="notice-message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    repellendus repudiandae modi
+                    sint voluptatum animi ut adipisci.</p>
+                </div>
+              </li>
 
-  <div class="col-12 col-sm-6 col-lg-6" style="background-color:red;">
-    <div class="notice-container boxyfy">
-      <h2 class="sub-heading">Notice </h2>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque.
-      </p>
+              <li>
+                <div class="notice-content">
+                  <h3 class="notice-title">Notice Title</h3>
+                  <p class="notice-date h4">Notice Date</p>
+                  <p class="notice-message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    repellendus repudiandae modi
+                    sint voluptatum animi ut adipisci.</p>
+                </div>
+              </li>
 
-      <ul>
-        <li>
-          <h3>Notice title </h2>
-            hohoh hahaha hohoh lolo lalal bobo
-        </li>
-        <li>
-          <h3>Notice title </h1>
-            hohoh hahaha hohoh lolo lalal bobo
-        </li>
-        <li>
-          <h3>Notice title </h3>
-          hohoh hahaha hohoh lolo lalal bobo
-        </li>
-        <li>
-          <h3>Notice title </h3>
-          hohoh hahaha hohoh lolo lalal bobo
-        </li>
-        <li>
-          <h3>Notice title </h3>
-          hohoh hahaha hohoh lolo lalal bobo
-        </li>
-      </ul>
+              <li>
+                <div class="notice-content">
+                  <h3 class="notice-title">Notice Title</h3>
+                  <p class="notice-date h4">Notice Date</p>
+                  <p class="notice-message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    repellendus repudiandae modi
+                    sint voluptatum animi ut adipisci.</p>
+                </div>
+              </li>
 
+              <li>
+                <div class="notice-content">
+                  <h3 class="notice-title">Notice Title</h3>
+                  <p class="notice-date h4">Notice Date</p>
+                  <p class="notice-message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    repellendus repudiandae modi
+                    sint voluptatum animi ut adipisci.</p>
+                </div>
+              </li>
+
+              <li>
+                <div class="notice-content">
+                  <h3 class="notice-title">Notice Title</h3>
+                  <p class="notice-date h4">Notice Date</p>
+                  <p class="notice-message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
+                    repellendus repudiandae modi
+                    sint voluptatum animi ut adipisci.</p>
+                </div>
+              </li>
+
+            </ul>
+          </div>
+
+
+        </div>
+
+      </div>
     </div>
   </div>
+
+
 </div>
 
 <?php
