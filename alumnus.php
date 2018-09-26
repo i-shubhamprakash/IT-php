@@ -324,7 +324,6 @@ ALL RIGHTS RESERVED
 <!-- php code to fetch alumnus data -->
     <!-- <div class="row">
         <div class="col-12 col-sm-6 col-md-6 col-lg-6">
-            <!--PHP code to fetch faculty information-->
             <?php
 				// $query= "SELECT * FROM `alumnus` ORDER BY `alumni_id`";
 				// $result = $mysqli->query($query);
