@@ -2,7 +2,7 @@
     font-family: 'Nunito', sans-serif;
 }
 
-.card {
+.boxyfy {
     margin:5em 1em;
     padding:2em;
 
@@ -43,7 +43,7 @@
 }
 
 @media only screen and (max-width: 400px) {
-    .card {
+    .boxyfy {
         margin:1em 0;
         padding:1em;
     

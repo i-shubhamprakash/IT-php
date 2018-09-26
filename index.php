@@ -58,7 +58,7 @@
 
   <div class="row">
     <div class="col-12 col-sm-6 col-lg-6" style="background-color:blue;">
-      <div class="about-container card">
+      <div class="about-container boxyfy">
         <h2 class="sub-heading"> About </h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
@@ -117,7 +117,7 @@
   </div>
 
   <div class="col-12 col-sm-6 col-lg-6" style="background-color:red;">
-    <div class="notice-container card">
+    <div class="notice-container boxyfy">
       <h2 class="sub-heading">Notice </h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque.
