@@ -47,6 +47,32 @@ margin-right: auto;
     font-size: 1.1em;
 }
 
+.alumnus-pic {
+    width: 100%;
+}
+
+.member-block-card {
+    border-bottom: 6px solid rgba(255, 43, 149, 0.829);
+
+}
+
+.shadow {
+    -webkit-box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.38);
+    -moz-box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.38);
+    box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.38);
+}
+
+.round-corner {
+    border-radius: 6px 6px 6px 6px;
+    -moz-border-radius: 6px 6px 6px 6px;
+    -webkit-border-radius: 6px 6px 6px 6px;
+    border: 0px solid #000000;
+}
+
+.circular-corner {
+    border-radius: 50%;
+}
+
 
 .boxyfy {
     margin: 5em 1em;
