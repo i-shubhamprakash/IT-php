@@ -25,6 +25,9 @@ session_start();
     <!-- google font  -->
     <link href="https://fonts.googleapis.com/css?family=Acme|Nunito" rel="stylesheet">
     
+    <!-- Font awesome library -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
+    
     <link rel="stylesheet" href="styles/main.css">
     <title>Information Technology</title>
 </head>
