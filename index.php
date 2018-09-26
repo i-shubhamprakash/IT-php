@@ -4,7 +4,7 @@
 ?>
 
 <!-- Home page main content -->
-<div class="container-fluid main-body">
+<div class="container main-body">
   <div class="row">
     <header class="header-section col-12 col-sm-12 col-lg-12">
       <h1 class="header-text text-center heading"> <img src="styles/images/it_logo.png" align="center" alt="itlogo">Department
@@ -57,9 +57,8 @@
   </div>
 
   <div class="row">
-    <div class="col-lg-8">
+    <div class="col-12 col-sm-6 col-lg-6" style="background-color:blue;">
       <div class="about-container card">
-
         <h2 class="sub-heading"> About </h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur cum, veniam libero doloremque vel dicta
@@ -117,7 +116,7 @@
 
   </div>
 
-  <div class="col-lg-4">
+  <div class="col-12 col-sm-6 col-lg-6" style="background-color:red;">
     <div class="notice-container card">
       <h2 class="sub-heading">Notice </h2>
       <p>
