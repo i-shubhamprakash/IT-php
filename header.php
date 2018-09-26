@@ -76,7 +76,6 @@ session_start();
             <ul class="nav navbar-nav navbar-right">
 
                 <!-- login code -->
-                
         </div>
 
 
