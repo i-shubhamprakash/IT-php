@@ -1,12 +1,15 @@
-<?php
-/*
- © aditya thakur ©piyush vikas
-  contact: https://www.linkedin.com/in/aditya532/
- ALL RIGHTS RESERVED
- 
- */
+<!--
+CREATED BY:
+** BACK-END:
+Aditya Thakur
+linkedin: linkedin.com/adityathakur532
 
-?>
+** FRONT-END:
+Shubham Prakash
+LikedIn: https://www.linkedin.com/in/ishubhamprakash
+
+ALL RIGHTS RESERVED
+-->
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -18,10 +21,10 @@
 <?php include("header.php");?>
 
 <body>
-	
+
 </body>
-	
-	
+
+
 <?php
 include("footer.php");
 ?>

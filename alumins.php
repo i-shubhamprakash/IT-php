@@ -1,8 +1,16 @@
-<!-- �Aditya Thakur 
-  contact: https://www.linkedin.com/in/aditya532/
- ALL RIGHTS RESERVED
+<!--
+CREATED BY:
+** BACK-END:
+Aditya Thakur
+linkedin: linkedin.com/adityathakur532
+
+** FRONT-END:
+Shubham Prakash
+LikedIn: https://www.linkedin.com/in/ishubhamprakash
+
+ALL RIGHTS RESERVED
  -->
-<?php 
+<?php
 	include("header.php");
 ?>
 
@@ -110,6 +118,6 @@
 </div>
 
 
-<?php		  
+<?php
 include("footer.php");
 ?>

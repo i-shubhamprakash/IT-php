@@ -1,9 +1,16 @@
+<!--
+CREATED BY:
+** BACK-END:
+Aditya Thakur
+linkedin: linkedin.com/adityathakur532
+
+** FRONT-END:
+Shubham Prakash
+LikedIn: https://www.linkedin.com/in/ishubhamprakash
+
+ALL RIGHTS RESERVED
+-->
 <?php
-/*
- � aditya thakur �Piyush Vikas
-  contact: https://www.linkedin.com/in/aditya532/
- ALL RIGHTS RESERVED
- */
 $page_requirements = '
 	<title>Gallery | IT Dept</title>
 	';
@@ -12,7 +19,7 @@ include( "header.php" );
 
 <div class="container-fluid">
 	<div class="card">
-		
+
 	</div>
 </div>
 

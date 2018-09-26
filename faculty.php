@@ -1,10 +1,17 @@
+<!--
+CREATED BY:
+** BACK-END:
+Aditya Thakur
+linkedin: linkedin.com/adityathakur532
 
-<!-- ©Aditya Thakur 
-  contact: https://www.linkedin.com/in/aditya532/
- ALL RIGHTS RESERVED
- -->
-<?php 
-$page_requirements = '	
+** FRONT-END:
+Shubham Prakash
+LikedIn: https://www.linkedin.com/in/ishubhamprakash
+
+ALL RIGHTS RESERVED
+-->
+<?php
+$page_requirements = '
 	<title>Our Faculty | IT Dept</title>
 	<link rel="stylesheet" href="styles/faculty.css" type="text/css" />	';
 	include("header.php");
@@ -16,7 +23,7 @@ $page_requirements = '
 				</div>
 			</div>
 			<div class="row">
-				
+
 				<!--PHP code to fetch faculty information-->
 			<?php
 				$query= "SELECT * FROM `faculty` ORDER BY `faculty_id`";
@@ -34,7 +41,7 @@ $page_requirements = '
 			</div>
 			<br>
 		</div>
-	
-<?php		  
+
+<?php
 include("footer.php");
 ?>

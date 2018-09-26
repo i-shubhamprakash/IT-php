@@ -1,7 +1,16 @@
-<?php
-/* Created by Aditya Thakur
+<!--
+CREATED BY:
+** BACK-END:
+Aditya Thakur
 linkedin: linkedin.com/adityathakur532
-ALL RIGHTS RESERVED */
+
+** FRONT-END:
+Shubham Prakash
+LikedIn: https://www.linkedin.com/in/ishubhamprakash
+
+ALL RIGHTS RESERVED
+-->
+<?php
 require("login.php");
 session_start();
 ?>

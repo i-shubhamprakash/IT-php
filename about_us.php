@@ -1,9 +1,16 @@
 <?php
 /*
- � aditya thakur �Piyush Vikas
-  contact: https://www.linkedin.com/in/aditya532/
- ALL RIGHTS RESERVED
- */
+CREATED BY:
+** BACK-END:
+Aditya Thakur, Piyush Vikas
+linkedin: linkedin.com/adityathakur532
+
+** FRONT-END:
+Shubham Prakash
+LikedIn: https://www.linkedin.com/in/ishubhamprakash
+
+ALL RIGHTS RESERVED
+*/
 $page_requirements = '
 	<title>About Us | IT Dept</title>
 	<link rel="stylesheet" href="layout/styles/home.css" type="text/css" />';
@@ -19,8 +26,8 @@ $page_requirements = '
 				</div>
 			</div>
 
-	
-	
+
+
 <?php
 include("footer.php");
 ?>

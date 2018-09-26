@@ -1,4 +1,15 @@
+<!--
+CREATED BY:
+** BACK-END:
+Aditya Thakur
+linkedin: linkedin.com/adityathakur532
 
+** FRONT-END:
+Shubham Prakash
+LikedIn: https://www.linkedin.com/in/ishubhamprakash
+
+ALL RIGHTS RESERVED
+-->
 <footer class="container-fluid footer">
 <div class="row">
     <div class="col-12 col-md-4 col-lg-4">
