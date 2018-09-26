@@ -77,26 +77,8 @@ session_start();
             </ul>
   
             <ul class="nav navbar-nav navbar-right">
-<<<<<<< HEAD
 
                 <!-- login code -->
-||||||| merged common ancestors
-
-                <!-- login code -->
-                
-=======
-            <li><a href="signin-up.php"><span class="glyphicon glyphicon-user"></span> Login/SignUp</a></li>
-              <!-- 
-                   <?php if ( $_SESSION['logged_in'] != 1 ) { ?>
-                    <li><a href="signin-up.php"><span class="glyphicon glyphicon-user"></span> Login/SignUp</a></li>
-		        <? }
-  		        else { ?>
-                    <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
-                    <li><a href="my_profile.php">My Profile</a></li>
-                <? } ?> 
-            -->
-            </ul>
->>>>>>> 35a302856130812d549998049f4307180e00ac49
         </div>
 
 
